@@ -1,19 +1,28 @@
 project:
   type: website
-
+  output-dir: docs
+  resources:
+    - data/
+  
+  
 website:
-  title: "UoE_DataFest24"
+  title: "UoE DataFest24"
+  search: false
   navbar:
+    background: "#00539B" # Duke Blue
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    - signup.qmd
+    - schedule.qmd
+    - workshops.qmd
+    - faq.qmd
+    - resources.qmd
+    - sponsors.qmd
+    - coc.qmd
+    - winners.qmd
+      
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-editor: visual
 
