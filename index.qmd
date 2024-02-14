@@ -5,9 +5,11 @@ title: "DataFest"
 ## UoE DataFest 2024
 
 Are you up for a data challenge? Want to mingle with data analysis professionals from industry and academia? Compete for prizes and glory? 
-ASA DataFest is an international data analysis competition where teams of up to five undergraduate students attack a large, complex, and surprise dataset over a weekend.
+ASA DataFest is an international data analysis competition where teams of up to five undergraduate students attack a large, complex, and surprise dataset over a weekend. Your job is to find and communicate insights into these data. The teams that impress the judges will win prizes and glory!
 
-Your job is to find and communicate insights into these data. The teams that impress the judges will win prizes and glory!
+This year we're hosting the second ASA DataFest at Edinburgh on 22-24 March! ASA DataFest is a weekend-long undergraduate data analysis competition where teams of 2-5 undergraduates work to reveal insights into a rich, complex, and surprise dataset. 
+
+The School of Maths is hosting an ASA DataFest event this year for the second time, and we hope you'll be a part of it! Additionally, we're joining forces with Heriot-Watt and bringing together students from the two universities, in person for this year, after a long time!
 
 ## Event details
 
@@ -21,9 +23,9 @@ Projects will be due on Sunday afternoon. Each team will give a brief presentati
 
 ## What is DataFest?
 
-::: callout
-[Click here](/winners.html) to see the 2023 winners! [Click here](https://www.youtube.com/watch?v=5oG0UAHRWOk) to watch highlights from a previous DataFest!
-:::
+<!-- ::: callout -->
+<!-- [Click here](/winners.html) to see the 2023 winners! [Click here](https://www.youtube.com/watch?v=5oG0UAHRWOk) to watch highlights from a previous DataFest! -->
+<!-- ::: -->
 
 ASA DataFest<sup><small>TM</small></sup> is a data analysis competition where teams of up to five students attack a large, complex, and surprise data set over a weekend. Your job is to represent your school by finding and communicating insights into these data. The teams that impress the judges will win prizes as well as glory for their school. Everyone will have a great experience, lots of food, and fun!
 
