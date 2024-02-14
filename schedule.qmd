@@ -36,9 +36,11 @@ TBD
 
 #### Google map addresses
 
-- Penn Pavilion: [107 Union Dr, Durham, NC 27710](https://maps.app.goo.gl/gXVJiMBw8x4jNiru9)
+- Nucleus Building, UoE Kings Buildings Campus: [Thomas Bayes Rd, Edinburgh EH9 3FG](https://www.google.com/maps/place/The+Nucleus+Building,+The+University+of+Edinburgh/@55.9228707,-3.1739974,15z/data=!4m2!3m1!1s0x0:0x30d53c72c9accbd8?sa=X&ved=2ahUKEwi0sZeD4KuEAxUAZ0EAHTvaDQsQ_BJ6BAgPEAA)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3227.8243789566163!2d-78.945684149699!3d36.00015750176001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ace6b0062c689b%3A0x418fe3d44783c11b!2sPenn%20Pavilion!5e0!3m2!1sen!2sus!4v1705005781165!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+[NUC_2.03 - Hawthorn Teaching Studio](https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0639_02_2.03)
+
+<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3227.8243789566163!2d-78.945684149699!3d36.00015750176001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ace6b0062c689b%3A0x418fe3d44783c11b!2sPenn%20Pavilion!5e0!3m2!1sen!2sus!4v1705005781165!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 
 <!-- - Perkins library: [411 Chapel Drive -->
 <!-- Durham, NC 27708](https://goo.gl/maps/JGGawKRZBm2ygq4S8) -->

@@ -2,42 +2,47 @@
 title: "FAQ"
 ---
 
-### How do I sign up?
+### How does this event work?
 
+We start at 6pm on Friday with an introduction of the data and challenge. Students work through Sunday noon and then present their findings to a panel of judges and we pick three winners: Best Visualisation, Best Insight, and Best Use of Outside Data.
+
+The event will be held virtually this year. Students and consultants will be able to communicate on Slack and we'll also make use of Zoom and Gather.town for getting together throughout the event.
+
+As consultants, you'll be assigned a block of time when you'll be online, checking to see how the participants are doing and helping out where you can. We'll send out further details on the interaction once we have a better idea of how many students and how many consultants we have.
+
+### What is this year's dataset?
+
+It's a surprise! Past data providers for the event include the Canadian National Women's Rugby Team, Indeed.com, Ticketmaster, and Kiva. As consultants, you will get a sneak preview of this year's surprise dataset before the event begins -- after you take a vow of silence, of course! Most importantly, you're not expected to be an expert in the data, or do any pre-work to prepare.
+
+
+### How do I sign up?
 
 Registration **is open**! [Click here](/signup.html) to sign up.
 
- 
-
 ### Is there a registration fee?
 
-No, there is no registration fee. However note that the event takes significant resources to run. So, if you sign up, we expect that you will show up! If your plans change, [let us know](mailto:aaf29@duke.edu) as soon as possible so we can make your spot available to someone else.
+No, there is no registration fee. However note that the event takes significant resources to run. So, if you sign up, we expect that you will show up! If your plans change, [let us know](serveh.sharifi@ed.ac.uk) as soon as possible so we can make your spot available to someone else.
 
- 
 
 ### Who is eligible to compete?
 
 All undergraduate and MS students are eligible. 
 
- 
 
 ### What about PhD students?
 
-We would love to have Ph.D. students be involved as consultants during the event.
+We would love to have Ph.D. students be involved as consultants during the event. There will be some 
 
- 
 
-### Can I participate as a consuntant if I'm an MS student?
+### Can I participate as a consultant if I'm an MS student?
 
 Sure!
 
  
-
 ### How large are the teams?
 
 Teams can be made up of 2-5 students. 
 
- 
 
 ### Do I have to compete in a team?
 
@@ -49,30 +54,26 @@ Yes, but if you don't have a team in mind, select the "Looking for team" registr
 
 All you need is a laptop with tools for data analysis (there is no limitation on which software you use) and enthusiasm for data.
 
- 
 
 ### What are the rules of the competition?
 
-- All projects must be submitted by **Sunday, March 3** There is only one submission per team.
+- All projects must be submitted by **Sunday, March 24** There is only one submission per team.
 - Any additional data used in the project must be publicly available or openly licensed.
 - All interactive dashboards must be deployed online.
 - All slide decks and write ups must be submitted as a PDF document.
 - It's a competition, but a friendly one, so collaboration between teams is not only allowed but highly encouraged.
 
  
-
 ### How do I submit my analysis?
 
 Once the registration window closes, participants will receive an email with a link to the project submission form.
 
  
-
 ### Where can I get help during the competition?
 
 Consultants will be available in-person throughout the weekend to answer questions. 
 
  
-
 ### What can I win?
 
 ASA student memberships, medals, mugs, fame, glory, or some combination thereof... And you get a t-shirt!
